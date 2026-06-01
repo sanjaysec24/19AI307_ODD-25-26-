@@ -21,12 +21,11 @@ To write a Java program that demonstrates method overriding using inheritance an
 ## PROGRAM:
  ```
 /*
-Program to implement a Polymorphism using Java
-Developed by: HEMANTH KUMAR S
-RegisterNumber:  212224040115
+Program to implement variables and Operators using Java
+Developed by: SANJAYKUMAR B
+RegisterNumber:  212224230242
 */
 ```
-
 ## SOURCE CODE:
 ```java
 import java.util.Scanner;
