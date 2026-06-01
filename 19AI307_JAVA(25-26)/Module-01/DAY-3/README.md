@@ -23,9 +23,9 @@ To write a Java program that reads an integer from the user and displays all the
 ## PROGRAM:
  ```
 /*
-Program to implement a Looping Statement using Java
-Developed by: HEMANTH KUMAR S
-RegisterNumber: 212224040115
+Program to implement variables and Operators using Java
+Developed by: SANJAYKUMAR B
+RegisterNumber:  212224230242
 */
 ```
 
