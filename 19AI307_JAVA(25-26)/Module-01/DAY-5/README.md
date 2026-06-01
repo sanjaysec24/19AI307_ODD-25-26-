@@ -1,16 +1,30 @@
 # Ex.No:1(E) STRINGS AND MATH FUNCTION
 
 ## QUESTION:
+Write a Java program to reverse a given string.
 
+For example:
+
+| Input | Result |
+|------|--------|
+| welcome | Reversed string: emoclew |
+
+---
 
 ## AIM:
+To write a Java program that reads a string from the user and prints the reversed string using the StringBuilder reverse() method.
 
+---
 
 ## ALGORITHM :
 1.	Start the program.
 2.	Import the necessary package 'java.util'
-3.	
-
+3.	Create a Scanner object to read input from the user.
+4.	Read the input string using next().
+5.	Create a StringBuilder object and pass the input string to it.
+6.	Use the reverse() method of StringBuilder to reverse the string.
+7.	Print the reversed string.
+8.	End the program.
 
 
 
@@ -19,13 +33,25 @@
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: 
-RegisterNumber:  
+Developed by: HEMANTH KUMAR S
+RegisterNumber:212224040115
 */
 ```
 
 ## SOURCE CODE:
+```java
+import java.util.*;
 
+class prog{
+    public static void main(String[] args)
+    {
+        Scanner sc = new Scanner(System.in);
+        String a = sc.next();
+        StringBuilder sb = new StringBuilder(a);
+        System.out.println("Reversed string: " + sb.reverse());
+    }
+}
+```
 
 
 
@@ -33,7 +59,9 @@ RegisterNumber:
 
 
 ## OUTPUT:
+<img width="692" height="297" alt="image" src="https://github.com/user-attachments/assets/b5cfd461-e3d6-4f08-9a1a-d12e458f4bb7" />
 
 
 
 ## RESULT:
+Thus, the Java program to reverse a given string was executed successfully.
