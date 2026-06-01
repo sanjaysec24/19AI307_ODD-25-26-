@@ -19,9 +19,9 @@ To convert string inputs into integers using the wrapper class and perform addit
 ## PROGRAM:
  ```
 /*
-Program to implement a Wrapper Class using Java
-Developed by: HEMANTH KUMAR S
-RegisterNumber: 212224040115 
+Program to implement variables and Operators using Java
+Developed by: SANJAYKUMAR B
+RegisterNumber:  212224230242
 */
 ```
 
