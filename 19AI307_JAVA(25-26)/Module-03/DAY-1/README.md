@@ -20,15 +20,15 @@ To write a Java program using inheritance to calculate the final gold price for 
 
 
 
-
 ## PROGRAM:
  ```
 /*
-Program to implement a Inheritance and Aggregation using Java
-Developed by: HEMANTH KUMAR S
-RegisterNumber:  212224040115
+Program to implement variables and Operators using Java
+Developed by: SANJAYKUMAR B
+RegisterNumber:  212224230242
 */
 ```
+
 
 ## SOURCE CODE:
 ```java
