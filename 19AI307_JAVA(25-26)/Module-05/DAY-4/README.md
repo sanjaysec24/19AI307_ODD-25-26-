@@ -25,9 +25,9 @@ To Write a java program for determine the priority and name of the current threa
 ## PROGRAM:
  ```
 /*
-Program to implement a Thread Priority Concept using Java
-Developed by: HEMANTH KUMAR S
-RegisterNumber:  212224040115
+Program to implement a Synchronization concept using Java
+Developed by: SANJAY KUMAR B
+RegisterNumber:  212224230242
 */
 ```
 
