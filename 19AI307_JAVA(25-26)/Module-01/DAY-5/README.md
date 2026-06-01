@@ -32,9 +32,9 @@ To write a Java program that reads a string from the user and prints the reverse
 ## PROGRAM:
  ```
 /*
-Program to implement a Strings and Math Function using Java
-Developed by: HEMANTH KUMAR S
-RegisterNumber:212224040115
+Program to implement variables and Operators using Java
+Developed by: SANJAYKUMAR B
+RegisterNumber:  212224230242
 */
 ```
 
