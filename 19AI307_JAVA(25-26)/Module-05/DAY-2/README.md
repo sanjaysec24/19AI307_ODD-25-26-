@@ -22,9 +22,9 @@ To Write a Java program to serialize a collection of objects (like ArrayList) in
 ## PROGRAM:
  ```
 /*
-Program to implement a Serialization and Deserialization using Java
-Developed by: HEMANTH KUMAR S
-RegisterNumber:  212224040115
+Program to implement variables and Operators using Java
+Developed by: SANJAYKUMAR B
+RegisterNumber:  212224230242
 */
 ```
 
